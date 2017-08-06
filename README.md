@@ -16,7 +16,7 @@ TBD
 
 ## References
 
-TBD
+- [What is JavaScript's highest integer value that a Number can go to without losing precision?](https://stackoverflow.com/questions/307179/what-is-javascripts-highest-integer-value-that-a-number-can-go-to-without-losin)
 
 ## Samples
 
