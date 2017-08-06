@@ -1,0 +1,26 @@
+{
+  "name": "binte",
+  "description": "Simple big integer implementation, WIP",
+  "keywords": [
+    "arithmetic",
+    "biginteger",
+    "javascript"
+  ],
+  "version": "0.0.1alpha",
+  "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajlopez/BInte.git"
+  },
+  "main": "./lib/binte.js",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {
+    "test": "simpleunit -r ./test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "simpleunit": "0.0.7"
+  }
+}
